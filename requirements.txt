@@ -1,7 +1,5 @@
 flask
 recipe-scrapers
 gunicorn
-flask
-recipe-scrapers
-gunicorn
 flask-cors
+
